@@ -693,7 +693,7 @@ a:hover {
 
   height: .7rem;
   background-color: #0078ff;
-  animation:animate 4s ease-in-out forwards;
+  animation:animate 18s ease-in-out forwards;
 }
 @keyframes animate{
   from {
